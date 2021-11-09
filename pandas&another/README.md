@@ -1,0 +1,1 @@
+some example with my work with python libs: pandas, numpy, matplotlib and seaborn  
